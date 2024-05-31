@@ -20,6 +20,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LFelipedev&theme=gotham&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LFelipedev&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+##
+
+# GitHub Trophies:
+
+![](https://github-profile-trophy.vercel.app/?username=nicolasscarvalho&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
+
 ---
 
 [![](https://visitcount.itsvg.in/api?id=LFelipedev&icon=1&color=3)](https://visitcount.itsvg.in)
