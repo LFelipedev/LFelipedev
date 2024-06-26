@@ -2,8 +2,8 @@
 
 - 🎓 Instituto federal do Ceará 
 - 🌱 Acadêmico em engenharia de telecomunicações
-- ⚡ Técnico em eletroeletrônica
-- 😄 Pronouns: ele/dele
+<!-- - ⚡ Técnico em eletroeletrônica --!>
+<!-- - 😄 Pronouns: ele/dele --!>
 
 <div class = "icons"> 
   <img style = "height: 60px; width: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />  
