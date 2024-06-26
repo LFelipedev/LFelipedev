@@ -2,6 +2,7 @@
 
 - 🎓 Instituto federal do Ceará 
 - 🌱 Acadêmico em engenharia de telecomunicações
+- Email: luiz.fma.up@gmail.com
 
 <div class = "icons"> 
   <img style = "height: 50px; width: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />  
