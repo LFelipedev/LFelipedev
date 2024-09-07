@@ -4,11 +4,12 @@
 - 🌱 Acadêmico em engenharia de telecomunicações
 - Email: luiz.fma.up@gmail.com
 
-<div class = "icons"> 
-  <img style = "height: 50px; width: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />  
-  <img style = "height: 50px; width: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img style = "height: 50px; width: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />     
-  <img style = "height: 50px; width: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg"/> 
+# Tecnologias que uso
+
+<div class = "tecs">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,cpp,kotlin,html,css" />
+  </a>
 </div>
 
 ##
