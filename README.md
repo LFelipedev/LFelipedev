@@ -16,8 +16,6 @@
 
 # GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=LFelipedev&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=LFelipedev&theme=gotham&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LFelipedev&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ##
