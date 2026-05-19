@@ -1,4 +1,3 @@
-# Hey, I'm Felipe 👋
+# hey, i'm Felipe 👋
 
-Web, Mobile and Embedded Systems
-
+engineering student
